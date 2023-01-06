@@ -11,10 +11,10 @@ https://dribbble.com/shots/13904307-POS-System-Cashier
 
 ## Youtube
 
-bit.ly/3h90pC0
+https://www.youtube.com/watch?v=6zSfvYer6Kw&t=609s
 
 ## Preview
 
 <p align="middle">
-<img src="assets/previews/Screenshot_1670894756.png" width="400">
+<img src="assets/previews/Screenshot_1670894756.png" width="800">
 </p>
