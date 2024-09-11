@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=6zSfvYer6Kw&t=609s
 <p align="middle">
 <img src="assets/previews/Screenshot_1670894756.png" width="800">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.cashier_app_ui"/>  
